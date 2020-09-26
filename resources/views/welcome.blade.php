@@ -187,6 +187,7 @@ RIP: M.C. Jorge Octavio Guzmán Sánchez</p>
 <p>CORREO: rip@ittg.edu.mx</p>
 
 <!-- p><?php 
+// actualizate....
 //$fecha = new DateTime($actualizar->created_at);
 //$fecha_d_m_y = $fecha->format('d/m/Y');
 
